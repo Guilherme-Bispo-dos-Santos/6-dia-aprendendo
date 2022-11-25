@@ -2,9 +2,15 @@ html, body{
     background-image: url(image/body.jpg);
     width: 100%;
     max-width: 100vw;
-    padding: 0;
+    padding:auto;
     margin: 0;
     height: 100%;
+}
+
+
+.corpo {
+   
+    background-size:cover;  
     
 }
 
@@ -12,8 +18,9 @@ html, body{
     background-image: url(image/cabecalho.jpg);
     margin: 0;
     height: 450px;
-    width: auto;
+    width: 1200;
     background-position: right center;
+    padding: auto;
 }
 
 .ul-seletions{
@@ -44,7 +51,8 @@ html, body{
       text-align: center;
       background-color: black;
       color: rgb(202, 26, 26) ;
-      margin:auto;
+      margin:0;
+      
 }
 
 .section-1 {
