@@ -1,11 +1,10 @@
 html, body{
     background-image: url(image/body.jpg);
-    width: auto;
-    max-width: auto;
+    width: 100%;
+    max-width: 100vw;
     padding:auto;
-    margin: auto;
-    height: auto;
-    background-size: cover;
+    margin: 0;
+    height: 100%;
 }
 
 
@@ -19,7 +18,7 @@ header{
     background-image: url(image/cabecalho.jpg);
     margin: auto;
     height: 450px;
-    width: auto;
+    width: 1200px;
     background-position: right center;
     padding: auto;
 }
@@ -189,4 +188,3 @@ main{
     padding: auto;
 
 }
-
