@@ -16,9 +16,9 @@ html, body{
 
 .cabecalho {
     background-image: url(image/cabecalho.jpg);
-    margin: 0;
+    margin: auto;
     height: 450px;
-    width: 1200;
+    width: 1200px;
     background-position: right center;
     padding: auto;
 }
