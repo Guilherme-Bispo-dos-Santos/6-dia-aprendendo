@@ -14,7 +14,7 @@ html, body{
     
 }
 
-.cabecalho {
+header{
     background-image: url(image/cabecalho.jpg);
     margin: auto;
     height: 450px;
@@ -177,5 +177,15 @@ footer{
     color: rgb(27, 56, 153);
     text-align: center;
     text-shadow: 500px 500px 500px 500px rgb(189, 12, 12);
+}
+
+main{
+    background-image: url(image/cabecalho.jpg);
+    margin: auto;
+    height: 450px;
+    width: 1200px;
+    background-position: right center;
+    padding: auto;
+
 }
 
